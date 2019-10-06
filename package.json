@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-developer",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "main": "index.js",
   "repository": "https://github.com/developer-hole/eslint-config-developer.git",
   "author": "Anish-Shobith <anish.shobith19@gmail.com>",
