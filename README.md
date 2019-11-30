@@ -13,3 +13,23 @@ npm i --save-dev developer-hole/eslint-config-developer
 ```
 requires:
 * eslint
+
+## eslint-typescript rules
+```json
+{
+	"extends": "developer/eslint-ts"
+}
+```
+requires:
+* eslint
+* @typescript-eslint/parser
+* @typescript-eslint/eslint-plugin
+
+## tslint rules
+```json
+{
+	"extends": "eslint-config-developer/ts"
+}
+```
+requires:
+* tslint
